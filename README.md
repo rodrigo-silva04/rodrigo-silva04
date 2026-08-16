@@ -28,6 +28,6 @@
 ---
 
 ### How to reach me?
-- **Email:** [rodrigo.bsilva.cs@gmail.com](rodrigo.bsilva.cs@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/rodrigo-silva04](www.linkedin.com/in/rodrigo-silva04)
+- **Email:** [rodrigo.bsilva.cs@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/rodrigo-silva04](https://www.linkedin.com/in/rodrigo-silva04/)
 - **Location:** Portugal
